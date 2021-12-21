@@ -1,0 +1,42 @@
+.voltar{
+    display: flex;
+ color: white;
+ background-color:#1e213a ;
+ border: none;
+ margin-left: 245px;
+ font-size: 24px;
+ margin-bottom: 20px;
+    
+
+}
+.search-area{
+background-color:#1e213a ;
+height: 100%;
+ ;
+}
+.procura{
+    width: 50%;
+    background-color:#1e213a;
+    color:#4c4f62;
+    height: 30px;
+    margin-left: 25px;
+    border: 1px solid #6e707a;
+}
+.botsearch{
+    background-color : #3c47e9;
+    margin-left: 13px;
+    color: white;
+    height:40px;
+    width: 60px;
+
+}
+@media (max-width: 450px) {
+    .voltar{
+        margin-left: 330px;
+
+
+
+    }
+   
+
+}

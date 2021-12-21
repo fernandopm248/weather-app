@@ -1,0 +1,13 @@
+.dias{
+    display: flex;
+    flex-direction: column;
+    width: 18%;
+    background-color: #1e213a;
+    align-items: center;
+}
+.icones{
+    width: 35%;
+
+
+
+}
